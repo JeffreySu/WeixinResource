@@ -1,7 +1,10 @@
 SDK帮助文档
 ============
 
-## C# SDK：Senparc.Weixin SDK [![Build Status](https://travis-ci.org/JeffreySu/WeiXinMPSDK.svg?branch=master)](https://travis-ci.org/JeffreySu/WeiXinMPSDK)
+## C# SDK：Senparc.Weixin SDK 
+
+[![Build Status](https://travis-ci.org/JeffreySu/WeiXinMPSDK.svg?branch=master)](https://travis-ci.org/JeffreySu/WeiXinMPSDK)
+
 代码：https://github.com/JeffreySu/WeiXinMPSDK
 
 官网：http://weixin.senparc.com
