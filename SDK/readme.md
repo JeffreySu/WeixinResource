@@ -1,8 +1,7 @@
 SDK帮助文档
 ============
 
-C# SDK：Senparc.Weixin SDK
---------------------------
+## C# SDK：Senparc.Weixin SDK
 https://github.com/JeffreySu/WeiXinMPSDK
 
 
