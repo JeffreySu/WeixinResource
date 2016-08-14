@@ -17,5 +17,5 @@ Demo：http://sdk.weixin.senparc.com/
 
 ## Python SDK： nil
 
-## 更多语言版本欢迎推荐和自荐！
+## 更多语言版本欢迎推荐和自荐优秀项目！
 
