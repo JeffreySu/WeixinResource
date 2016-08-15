@@ -1,6 +1,6 @@
 # AccessToken的刷新规则在公众号、企业号中是不一样的
 
-> [时间：2016.08.15] [作者：@JeffreySu]
+> [时间：2016.08.15] [作者：@JeffreySu] [关键字：AccessToken,企业号,服务号]
 
 在公众号中，每次调用 https://api.weixin.qq.com/cgi-bin/token?xxx 接口，都会重新刷新AccessToken，
 但在企业号中，同样调用获取AccessToken的接口，在短时间内获取到的AccessToken是相同的（被微信服务器缓存）。
