@@ -9,7 +9,7 @@ This project is used for collecting and organizing WeChat development resources,
 
 ## 贡献资料 Contribute Contents
 
-### 方法一：Pull Request （推荐）| Method 1: Pull Reuquest (Recommend)
+### 方法一：Pull Request （推荐）
 
 1. Fork
 
@@ -24,7 +24,13 @@ This project is used for collecting and organizing WeChat development resources,
 5. 然后到 github 网站的该 `git` 远程仓库的 `my-new-feature` 分支下发起 Pull Request
 > 文件命名规则及内容格式见【格式示例】。
 
+### 方法二：邮件
+
+发送邮件至：zsu@senparc.com，邮件标题以“微信开发资源提交”开头，内容尽量使用 MarkDown 书写，见【格式示例】。
+
 ------------------
+
+### Method 1: Pull Reuquest (Recommended)
 
 1. Create your feature branch (`git checkout -b my-new-feature`)
 
@@ -36,16 +42,12 @@ This project is used for collecting and organizing WeChat development resources,
 
 > The naming rules and content for resource files refer to 【Format Sample】
 
-### 方法二：邮件 | Method 2: By Email
-
-发送邮件至：zsu@senparc.com，邮件标题以“微信开发资源提交”开头，内容尽量使用 MarkDown 书写，见【格式示例】。
-
----------------------
+###  Method 2: By Email
 
 Send Email to : zsu@senparc.com, the Subject start with 'WeChat Development Resource Commit'.
 It's recommanded that use MarkDown as the language(format) for files, refer to 【Format Sample】.
 
-### 格式示例 | Format Sample
+### 格式示例  Format Sample
 [点击查看](https://github.com/JeffreySu/WeixinResource/blob/master/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91/%5B20160815%5D%20AccessToken%E7%9A%84%E5%88%B7%E6%96%B0%E8%A7%84%E5%88%99%E5%9C%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%81%E4%BC%81%E4%B8%9A%E5%8F%B7%E4%B8%AD%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84.md)
 
 -------------------
@@ -53,7 +55,7 @@ It's recommanded that use MarkDown as the language(format) for files, refer to �
 [Click to view](https://github.com/JeffreySu/WeixinResource/blob/master/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91/%5B20160815%5D%20AccessToken%E7%9A%84%E5%88%B7%E6%96%B0%E8%A7%84%E5%88%99%E5%9C%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%81%E4%BC%81%E4%B8%9A%E5%8F%B7%E4%B8%AD%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84.md)
 
 
-## 更新频率 | Update  Frequency
+## 更新频率   Update  Frequency
 
 每周1-2次，跟踪方式：
 
@@ -77,7 +79,7 @@ Update 1-2 times per week, you can follow updates as following ways:
 
 4. Add this page to your Favorites, open it when you need.
 
-## 使用 | Use
+## 使用  Use
 本库中的所有内容免费开放和使用，任何人向本库贡献代码和资料的同时也表示其对此完全理解并认同。
 
 当资料积累到一定量之后我们会集结成图书（电子版 和/或 纸质出版），所有贡献者的GitHub昵称及名字（如有提供）都会被录入。
