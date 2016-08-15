@@ -43,7 +43,7 @@ This project is used for collecting and organizing WeChat development resources,
 
 ###  Method 2: By Email
 
-Send Email to : zsu@senparc.com, the Subject should be start with 'WeChat Development Resource Commit'.
+Send Email to : zsu@senparc.com, the Subject should be started with 'WeChat Development Resource Commit'.
 It's recommanded that use MarkDown as the language(format) for files, refer to 【Format Sample】.
 
 ### 格式示例  Format Sample
