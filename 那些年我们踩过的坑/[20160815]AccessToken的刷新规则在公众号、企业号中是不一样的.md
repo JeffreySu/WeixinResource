@@ -2,12 +2,10 @@
 
 
 在公众号中，每次调用 https://api.weixin.qq.com/cgi-bin/token?xxx 接口，都会重新刷新AccessToken，
-但在企业号中，同样调用获取AccessToken的接口，在短时间内获取到的AccessToken是相同的（被微信服务器缓存），
-此时如果需要强制刷新AccessToken，则需要调用刷新接口。
+但在企业号中，同样调用获取AccessToken的接口，在短时间内获取到的AccessToken是相同的（被微信服务器缓存）。
 
 
-另付企业号AccessToken限制
------------
+## 另付企业号AccessToken限制
 
 当你获取到AccessToken时，你的应用就可以成功调用企业号后台所提供的各种接口以管理或访问企业号后台的资源或给企业号成员发消息。
 
@@ -30,3 +28,10 @@
 创建帐号频率：
 
 每企业创建帐号数不可超过帐号上限数*3/月
+
+## 参考资料
+公众号获取AccessToken：
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140183&token=&lang=zh_CN
+
+企业号获取AccessToken：
+http://qydev.weixin.qq.com/wiki/index.php?title=%E4%B8%BB%E5%8A%A8%E8%B0%83%E7%94%A8

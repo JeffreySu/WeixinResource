@@ -17,6 +17,9 @@
 ### 方法二：邮件
 发送邮件至：zsu@senparc.com，邮件标题以“微信开发资源提交”开头。
 
+### 格式示例
+https://github.com/JeffreySu/WeixinResource/blob/master/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91/%5B20160815%5DAccessToken%E7%9A%84%E5%88%B7%E6%96%B0%E8%A7%84%E5%88%99%E5%9C%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%81%E4%BC%81%E4%B8%9A%E5%8F%B7%E4%B8%AD%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84.md
+
 
 ## 更新频率
 每周1-2次，跟踪方式：
