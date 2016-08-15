@@ -6,7 +6,7 @@
 
 ## 贡献代码和资料
 
-### 方法一：Pull Request
+### 方法一：Pull Request （推荐）
 
 1. Fork
 2. 创建您的特性分支 (`git checkout -b my-new-feature`)
