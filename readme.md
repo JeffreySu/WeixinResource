@@ -74,7 +74,7 @@ Update 1-2 times per week, you can follow updates as following ways:
 
 2. You can Fork this project, and synchronizing code at any time you want.
 
-3. You can follow our Wechat Official Account named 'SenparcRobot' or '盛派网络小助手', to get the news.
+3. You can follow our Wechat Official Account named 'SenparcRobot' or '盛派网络小助手' to get the news push.
 
 4. Add this page to your Favorites, open it when you need.
 
