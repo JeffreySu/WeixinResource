@@ -15,6 +15,10 @@ SDK帮助文档
 
 Demo：http://sdk.weixin.senparc.com/
 
+国内服务器文档下载：http://sdk.weixin.senparc.com/Document
+
+在线文档：http://doc.weixin.senparc.com/
+
 
 ## JAVA SDK： nil
 
