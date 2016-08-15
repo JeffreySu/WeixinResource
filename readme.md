@@ -89,7 +89,7 @@ Update 1-2 times per week, you can follow updates as following ways:
 
 All the contents in this repository are opened and free to use. Anyone submit contents to here means who know this well and accept the term.
 
-We will publish the E-Book and/or P-Book while ahere are abudant resources. We will record all the contributors with their Github's username or 
+We will publish E-Book and/or P-Book while here are abudant resources. We will record all the contributors with their Github's username or 
 real name(if it's supported).
 
 So, if your name is missing, please let us know. The contributors' list: https://github.com/JeffreySu/WeixinResource/blob/master/Contributor.md
