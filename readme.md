@@ -39,4 +39,6 @@
 ## 使用
 本库中的所有内容免费开放和使用，任何人向本库贡献代码和资料的同时也表示其对此完全理解并认同。
 
-当资料积累到一定量之后我们会集结成图书（纸质出版电子版），所有贡献者的GitHub昵称及名字（如有提供）都会被录入。如有遗漏，请向我们反馈。贡献者名单：https://github.com/JeffreySu/WeixinResource/blob/master/Contributor.md
+当资料积累到一定量之后我们会集结成图书（纸质出版电子版），所有贡献者的GitHub昵称及名字（如有提供）都会被录入。
+
+如有您的名称被遗漏，请向我们反馈。贡献者名单：https://github.com/JeffreySu/WeixinResource/blob/master/Contributor.md
