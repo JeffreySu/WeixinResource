@@ -3,8 +3,9 @@
 
 本项目用于收集整理微信开发资源，欢迎大家贡献内容。
 
-This project is used for collecting and organizing WeChat development resources, welcome to contribute contents.
+-----------------
 
+This project is used for collecting and organizing WeChat development resources, welcome to contribute contents.
 
 ## 贡献资料 Contribute Contents
 
