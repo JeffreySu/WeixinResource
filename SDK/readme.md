@@ -1,5 +1,7 @@
 SDK帮助文档
 ============
+此处收集各语言SDK的文档，代码请见下方公布的链接。
+
 
 ## C# SDK：Senparc.Weixin SDK 
 
