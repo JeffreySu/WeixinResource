@@ -1,11 +1,13 @@
 微信开发资源 WeChat Development Resources
 =============
 
-本项目用于收集整理微信开发资源，欢迎大家贡献内容。
+本项目启动于2016年8月14日，用于收集整理微信开发资源，欢迎大家贡献内容。
 
 -----------------
 
 This project is used for collecting and organizing WeChat development resources, welcome to contribute contents.
+
+This project was started on August 14, 2016. 
 
 ## 贡献资料 Contribute Contents
 
