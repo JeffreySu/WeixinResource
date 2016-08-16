@@ -7,7 +7,7 @@
 
 This project is used for collecting and organizing WeChat development resources, welcome to contribute contents.
 
-This project was started on August 14, 2016. 
+This project was created on August 14, 2016. 
 
 ## 贡献资料 Contribute Contents
 
