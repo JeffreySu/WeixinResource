@@ -60,11 +60,11 @@ It's recommanded that use MarkDown as the language(format) for files, refer to �
 
 每周1-2次，跟踪方式：
 
-1. 您可以将项目标记为Watch或Star，方便您在GitHub网站查看和跟踪。
+1. 您可以将项目标记为`Watch`或`Star`，方便您在GitHub网站查看和跟踪。
 
-2. 您可以对项目进行Fork，随时同步到本地库中查看。
+2. 您可以对项目进行`Fork`，随时同步到本地库中查看。
 
-3. 您可以关注微信公众号“盛派网络小助手”获取最新的咨询。
+3. 您可以关注微信公众号“`盛派网络小助手`”获取最新的咨询。
 
 4. 收藏本网页直接查看。
 
@@ -72,11 +72,11 @@ It's recommanded that use MarkDown as the language(format) for files, refer to �
 
 Update 1-2 times per week, you can follow updates as following ways:
 
-1. You can mark this project as 'Watch' or 'Star', with that you can see this project in an independent list.
+1. You can mark this project as `Watch` or `Star`, with that you can see this project in an independent list.
 
-2. You can Fork this project, and synchronizing code at any time you want.
+2. You can `Fork` this project, and synchronizing code at any time you want.
 
-3. You can follow our Wechat Official Account named 'SenparcRobot' or '盛派网络小助手' to get the news push.
+3. You can follow our Wechat Official Account named `SenparcRobot` or `盛派网络小助手` to get the news push.
 
 4. Add this page to your Favorites, open it when you need.
 
