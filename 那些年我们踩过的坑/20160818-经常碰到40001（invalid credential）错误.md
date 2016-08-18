@@ -2,7 +2,9 @@
 
 > [时间：2016.08.18] [作者：@JeffreySu] [关键字：40001,invalid credential,AccessToken]
 
-首先我们这里确定的一个背景是AppId和Secret是正确的，在一个站点程序生命周期内已经拿到过AccessToken，
+首先我们这里确定的一个背景是AppId和Secret是正确的，如果Secret都错了请关闭此网页并自打三十大板。
+
+在一个站点程序生命周期内已经拿到过AccessToken，
 但在系统约定的过期时间内（默认为7200秒）提前过期，再次调用高级接口时返回40001的错误（invalid credential）。
 
 这种情况下下面检查几个比较容易忽略的问题：
