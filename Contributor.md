@@ -6,4 +6,5 @@
 | GitHub账号                                                  |  姓名        |
 |-------------------------------------------------------------|-------------|
 | [JeffreySu]@(https://github.com/JeffreySu)                  | 苏震巍       | 
+|                                                             | 赵卓         |
 | Your Account                                                | Your Name   | 
