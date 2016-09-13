@@ -59,7 +59,7 @@
 
 ## 解决方案四
 
-利用同步锁，判断code的使用情况，这是最粗犷也是最彻底的方法，以C#为例，直接上代码：
+利用同步锁，判断code的使用情况，这是最粗犷也是最彻底的方法，以 C# 使用 Senparc.Weixin SDK 为例，直接上代码：
 
 定义静态变量：
 
@@ -109,7 +109,7 @@
         {
             try
             {
-                result = result ?? OAuthApi.GetAccessToken(SiteConfig.WWHAppId, SiteConfig.WWHAppSecret, code);
+                result = result ?? OAuthApi.GetAccessToken(SiteConfig.YourAppId, SiteConfig.YourAppSecret, code);
             }
             catch (Exception ex)
             {
