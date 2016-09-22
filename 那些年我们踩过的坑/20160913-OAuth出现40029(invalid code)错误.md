@@ -10,7 +10,7 @@
 
 ## 现象
 
-在使用公众号的OAuth过程中，我们有时会碰到40029（invalid code，不合法的oauth_code的错误）的错误。
+在使用公众号的OAuth过程中，我们有时会碰到40029（invalid code，不合法的oauth_code）的错误。
 
 
 ## 原因
