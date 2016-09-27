@@ -1,1 +1,0 @@
-当前文档版本：对应Senparc.Weixin.MP.dll v14.3.6
