@@ -1,6 +1,6 @@
-微信小应用
+微信小程序
 ============
-资料：[https://github.com/JeffreySu/WeiXinMPSDK/tree/master/微信小程序](https://github.com/JeffreySu/WeiXinMPSDK/tree/master/微信小程序)
+资料：[https://github.com/JeffreySu/WxOpen/tree/master/微信小程序](https://github.com/JeffreySu/WxOpen/tree/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%B5%84%E6%96%99)
 
 Senparc.Weixin 12群（微信小程序群）：108830388
 
