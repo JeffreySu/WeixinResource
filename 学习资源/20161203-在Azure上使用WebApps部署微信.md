@@ -16,7 +16,7 @@
 
 ### 现场及互动
 
-<img src="files/2016_Ignite_Wechat/401240531584878519.jpg" alt="介绍微信开发" width="400" />
+<img src="files/2016_Ignite_Wechat/401240531584878519.jpg" alt="介绍微信开发" width="600" />
 
 介绍微信开发
 
@@ -28,11 +28,11 @@
 
 现金入账
 
-<img src="files/2016_Ignite_Wechat/554897937434018615.jpg" alt="超过3000人参与" width="400" />
+<img src="files/2016_Ignite_Wechat/554897937434018615.jpg" alt="超过3000人参与" width="800" />
 
 超过3000人参与
 
-<img src="files/2016_Ignite_Wechat/554897937434018615.jpg" alt="企业支付，现金入账" width="400" />
+<img src="files/2016_Ignite_Wechat/600483031681694692.jpg" alt="企业支付，现金入账" width="800" />
 
 企业支付，现金入账
 
