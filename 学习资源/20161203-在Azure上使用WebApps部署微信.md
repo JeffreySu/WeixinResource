@@ -16,24 +16,23 @@
 
 ### 现场及互动
 
-![介绍微信开发](files/2016_Ignite_Wechat/401240531584878519.jpg)
+<img src="files/2016_Ignite_Wechat/401240531584878519.jpg" alt="介绍微信开发" width="400" />
 
 介绍微信开发
 
-
-![红包](files/2016_Ignite_Wechat/240103615160825858.jpg)
+<img src="files/2016_Ignite_Wechat/240103615160825858.jpg" alt="红包" width="400" />
 
 红包
 
-![现金入账](files/2016_Ignite_Wechat/767394012896032906.jpg)
+<img src="files/2016_Ignite_Wechat/767394012896032906.jpg" alt="红包" width="400" />
 
 现金入账
 
-![超过3000人参与](files/2016_Ignite_Wechat/554897937434018615.jpg)
+<img src="files/2016_Ignite_Wechat/554897937434018615.jpg" alt="超过3000人参与" width="400" />
 
 超过3000人参与
 
-![企业支付，现金入账](files/2016_Ignite_Wechat/600483031681694692.jpg)
+<img src="files/2016_Ignite_Wechat/554897937434018615.jpg" alt="企业支付，现金入账" width="400" />
 
 企业支付，现金入账
 
