@@ -15,7 +15,7 @@
 
 2. 此账号是否在多个站点使用，导致相互之间不断刷新争夺最新的AccessToken。
 
-    这里说的多个站点也包括分布式、负载均衡的部署环境，这种情况下请使用统一的缓存对AccessToken进行管理，例如使用(Senparc.Weixin.Cache.Redis.dll)[https://www.nuget.org/packages/Senparc.Weixin.Cache.Redis]轻松切换到分布式缓存。
+    这里说的多个站点也包括分布式、负载均衡的部署环境，这种情况下请使用统一的缓存对AccessToken进行管理，例如使用[Senparc.Weixin.Cache.Redis.dll](https://www.nuget.org/packages/Senparc.Weixin.Cache.Redis)轻松切换到分布式缓存。
 
 3. 检查一下是否曾经将账号明文挂靠到第三方的平台（如有赞），第三方的平台也可能随时自动刷新AccessToken，
 如果希望切断，可以更换Secret。
