@@ -1,9 +1,3 @@
-微信小程序
-============
-资料：[https://github.com/JeffreySu/WxOpen/tree/master/微信小程序](https://github.com/JeffreySu/WxOpen/tree/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%B5%84%E6%96%99)
-
-Senparc.Weixin 12群（微信小程序群）：108830388
-
 微信开发资源 WeChat Development Resources
 =============
 
@@ -22,6 +16,11 @@ This project was created on August 14, 2016.
 
 > [![CrowdFunding](http://sdk.weixin.senparc.com/images/crowdfunding-qrcode.png)](http://www.weiweihi.com:8080/CrowdFunding/Home)  
 
+微信小程序
+============
+资料：[https://github.com/JeffreySu/WxOpen/tree/master/微信小程序](https://github.com/JeffreySu/WxOpen/tree/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%B5%84%E6%96%99)
+
+Senparc.Weixin 12群（微信小程序群）：108830388
 
 ## 贡献资料 Contribute Contents
 
