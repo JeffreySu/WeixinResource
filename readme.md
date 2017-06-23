@@ -15,6 +15,14 @@ This project is used for collecting and organizing WeChat development resources,
 
 This project was created on August 14, 2016. 
 
+## 微信开发图书
+
+> 由 Jeffrey Su 亲笔撰写的微信开发图书将于 1-2 个月内出版（出版社已经在排版中，最迟7月底），<br>
+书名：《微信开发深度解析：公众号、小程序高效开发秘籍》，可以使用微信扫描下方二维码查看最新进展：<br>
+
+> [![CrowdFunding](http://sdk.weixin.senparc.com/images/crowdfunding-qrcode.png)](http://www.weiweihi.com:8080/CrowdFunding/Home)  
+
+
 ## 贡献资料 Contribute Contents
 
 ### 方法一：Pull Request （推荐）
