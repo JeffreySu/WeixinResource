@@ -10,11 +10,11 @@ This project is used for collecting and organizing WeChat development resources,
 This project was created on August 14, 2016. 
 
 ## 微信开发图书
+<img src="http://sdk.weixin.senparc.com/images/book-cover-front-small-3d.jpg" width="400" /> <br >
 
-> 由 Jeffrey Su 亲笔撰写的微信开发图书将于 1-2 个月内出版（出版社已经在排版中，最迟7月底），<br>
-书名：《微信开发深度解析：公众号、小程序高效开发秘籍》，可以使用微信扫描下方二维码查看最新进展：<br>
-
-> [![CrowdFunding](http://sdk.weixin.senparc.com/images/crowdfunding-qrcode.png)](http://www.weiweihi.com:8080/CrowdFunding/Home)  
+> 由 Senparc.Weixin SDK 作者亲笔撰写的微信开发图书已经出版，书名：《微信开发深度解析：公众号、小程序高效开发秘籍》，Senparc 团队全程参与了图书整理工作及配套的 [BookHelper](http://book.weixin.senparc.com) 辅助阅读系统开发。<br>
+> 欢迎购买正版图书：[【购买正版】](https://book.weixin.senparc.com/book/link?code=github-WeixinResource-homepage)<br>
+> 图书出版时的代码版本快照见分支 [BookVersion1](https://github.com/JeffreySu/WeiXinMPSDK/tree/BookVersion1)。
 
 微信小程序
 ============
