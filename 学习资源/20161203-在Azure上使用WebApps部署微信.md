@@ -36,6 +36,10 @@
 
 企业支付，现金入账
 
+## 源代码下载及安装教程
 
-## 视频
-正在等待官方整理。
+https://www.azure.cn/solutions/wechat-senparc/
+
+
+## Ignite 技术大会视频
+https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-China-2016/MWD-B202?term=ignite
