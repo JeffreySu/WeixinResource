@@ -5,11 +5,14 @@ Senparc.Weixin SDK
 
     所有源代码（SDK + 官网示例源代码）： https://github.com/JeffreySu/WeiXinMPSDK
 
-    微信 Sample 自动生成工具（WeChatSamplerBuilder）已经发布，请登录 https://weixin.senparc.com/user 查看说明并下载。
+    [新] 微信 Sample 自动生成工具（WeChatSamplerBuilder）已经发布，请登录 https://weixin.senparc.com/user 查看说明并下载。
 
-    NeuChar（纽插）已经上线，为开发者提供一站式跨平台管理枢纽，并可将应用入驻到 NeuChar 应用商店！新功能正在不断增加中，快来使用吧！ https://neuchar.com
+    NeuChar（纽插）已经上线，为开发者提供一站式跨平台管理枢纽，并可将应用入驻到 NeuChar 应用商店！新功能正在不断增加中，快来使用吧！ https://www.neuchar.com
+
+    [新] 基于 Swagger 的动态微信 API 文档库（支持在线接口访问调试）：https://weixin.senparc.com:8039
 
     底层公共框架 CO2NET 已开源：https://github.com/Senparc/Senparc.CO2NET
+
 
 
 学习资源
@@ -44,7 +47,12 @@ Senparc.Weixin SDK
 12群（微信小程序）：108830388 Senparc微信小程序 12群
 13群（开放平台）：183424136 Senparc.Weixin SDK 开放平台（Open） 13群
 14群（视频学员）：588231256 Senparc.Weixin SDK 14群
-15群：289181996 Senparc.Weixin SDK 15群
+15群（公众号/综合）：289181996 Senparc.Weixin SDK 15群
+16群：860626938 （500人群 已满）
+17群（开放平台）：770615466
+NeuChar 技术交流群：618605800 NeuChar 开发交流群
+SCF 技术交流群：147054579 SCF 开发交流群
+
 
 官方微信公众号
 ==============
@@ -60,7 +68,7 @@ Senparc.Weixin SDK
 
 FreeBSD License
 
-Copyright (c) 2018, Jeffrey Su <www.jeffrey.su@gmail.com>, Suzhou Senparc Network Technology Co.,Ltd.
+Copyright (c) 2019, Jeffrey Su <www.jeffrey.su@gmail.com>, Suzhou Senparc Network Technology Co.,Ltd.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -93,7 +101,7 @@ via https://github.com/JeffreySu/WeiXinMPSDK/blob/master/license.md
 版权
 ====
 
-    copyright 2018 Senparc 苏州盛派网络科技有限公司，版权所有，保留所有权利。
+    copyright 2019 Senparc 苏州盛派网络科技有限公司，版权所有，保留所有权利。
 
 
 
